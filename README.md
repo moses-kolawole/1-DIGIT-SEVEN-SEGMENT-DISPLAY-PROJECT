@@ -26,7 +26,7 @@ This project demonstrates how to control a single-digit 7-segment display using 
 5. This process repeats continuously inside the `loop()` function.
 
 ## Code
-The Arduino sketch for this project is located in the `code/` directory.
+The Arduino sketch for this project is located in the [code/directory](code/) directory.
 
 ## Demo Video
 A demonstration video showing the working project is included in this repository.
