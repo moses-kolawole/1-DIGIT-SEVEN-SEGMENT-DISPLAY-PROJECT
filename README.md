@@ -19,7 +19,7 @@ This project demonstrates how to control a single-digit 7-segment display using 
 ![Circuit Diagrams](images/)
 
 ## How It Works
-1. Each segment of the 7-segment display is connected to a separate Arduino digital pin through a 220Ω resistor.
+1. Each segment of the 7-segment display is connected to a separate Arduino digital pin
 2. The Arduino sets each pin as an OUTPUT using `pinMode()`.
 3. To display a number, the program turns ON the required segments by writing HIGH to their respective pins.
 4. After a short delay, the next number is displayed in sequence.
